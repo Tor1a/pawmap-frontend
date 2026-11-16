@@ -24,3 +24,7 @@ dist-ssr
 *.sw?
 
 CLAUDE.md
+# AI 에이전트 설정 (로컬 전용)
+AGENTS.md
+REVIEW.md
+.worktreeinclude
